@@ -1,0 +1,42 @@
+.tetris {
+  margin: auto;
+  display: flex;
+  width: 285px;
+  justify-content: space-around;
+}
+body {
+  margin: auto;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.grid {
+  width: 200px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: yellow;
+  margin: auto;
+}
+.grid div {
+  height: 20px;
+  width: 20px;
+  /* background-color: red; */
+}
+.tetromino {
+  background-color: blue;
+}
+.mini-grid {
+  /* margin: auto; */
+  width: 80px;
+  height: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: yellow;
+}
+.mini-grid div {
+  height: 20px;
+  width: 20px;
+}
