@@ -1,5 +1,7 @@
 # tetris
-Course from Ania Kubow.
+From Ania's Kubow course.
 
 
-https://wojciech-lasota.github.io/tetris/
+[live preview](https://wojciech-lasota.github.io/tetris/)
+
+<img src=/Screenshots/1.png />
